@@ -1,0 +1,7 @@
+/root/dotnet_DOCKER/mywebapp/bin/Debug/net6.0/publish/mywebapp
+/root/dotnet_DOCKER/mywebapp/bin/Debug/net6.0/publish/appsettings.Development.json
+/root/dotnet_DOCKER/mywebapp/bin/Debug/net6.0/publish/appsettings.json
+/root/dotnet_DOCKER/mywebapp/bin/Debug/net6.0/publish/mywebapp.dll
+/root/dotnet_DOCKER/mywebapp/bin/Debug/net6.0/publish/mywebapp.deps.json
+/root/dotnet_DOCKER/mywebapp/bin/Debug/net6.0/publish/mywebapp.runtimeconfig.json
+/root/dotnet_DOCKER/mywebapp/bin/Debug/net6.0/publish/mywebapp.pdb
