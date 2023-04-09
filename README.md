@@ -16,6 +16,6 @@ By executing the above commands, the program is ready to serve on port 5000
 Now you can enter the address http://localhost:5000 in the browser and view the site.
 
 For Delete Running Container Execute Bellow Command
-
+Delete "/" character in bellow Command
 >> docker stop /\$(docker ps -q -a --filter "name=webapp-container") && docker rm /\$(docker ps -q -a --filter "name=webapp-container")
  
