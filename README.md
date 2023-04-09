@@ -17,5 +17,5 @@ Now you can enter the address http://localhost:5000 in the browser and view the 
 
 For Delete Running Container Execute Bellow Command
 
->> docker stop \$(docker ps -q -a --filter "name=webapp-container") && docker rm \$(docker ps -q -a --filter "name=webapp-container")
+>> docker stop /\$(docker ps -q -a --filter "name=webapp-container") && docker rm /\$(docker ps -q -a --filter "name=webapp-container")
  
